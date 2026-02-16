@@ -51,6 +51,8 @@ http://daas.la.coocan.jp/toukei_hosoku/tahenryo_jirei_01.htm
 
 data
 
+上記URLから取得した成績データを入れる
+
 src
 
 ここに主成分分析.ipynbを入れる
